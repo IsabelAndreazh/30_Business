@@ -1,6 +1,9 @@
 .pd-15{padding: 15%;}
+.pt-3{padding-top:3%;}
 .pd-3{padding:3%;}
+.ml-13{margin-left:13%;}
 .text-white{color: white;}
+.text-blue{color: blue;}
 .bg-gray{background-color: rgba(20, 27, 14, 0.3); }
 .bg-blue{background-color: rgba(11, 88, 255, 0.5);}
 .inline{display: inline-block;}
@@ -12,8 +15,15 @@
 	height: 600px;
 	width: 	100%;
 }
+header span{border:.1em solid black;}
 button{
 	background-color: rgba(20, 151, 255, 0.3);
 	border: 1%;
 	padding: 1%;
+}
+.sombreado{
+	box-shadow: inset 0px 1px 0px #9e8d84, 0px 5px 0px 0px #8E807E, 0px 10px 5px #999;
+	border-radius: 100%;
+	width: 50%;
+	padding: 10% 0%;
 }
