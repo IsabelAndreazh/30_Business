@@ -1,0 +1,19 @@
+.pd-15{padding: 15%;}
+.pd-3{padding:3%;}
+.text-white{color: white;}
+.bg-gray{background-color: rgba(20, 27, 14, 0.3); }
+.bg-blue{background-color: rgba(11, 88, 255, 0.5);}
+.inline{display: inline-block;}
+#fondo{
+	background-image: url("../image/large.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 600px;
+	width: 	100%;
+}
+button{
+	background-color: rgba(20, 151, 255, 0.3);
+	border: 1%;
+	padding: 1%;
+}
