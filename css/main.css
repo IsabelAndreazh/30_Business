@@ -1,10 +1,13 @@
 .pd-15{padding: 15%;}
 .pt-3{padding-top:3%;}
+.pt-10{padding-top:10%;}
 .pd-3{padding:3%;}
+.mb-0{margin-bottom: 0%;}
 .mb-3{margin-bottom:3%;}
 .mb-5{margin-bottom:5%;}
 .text-white{color: white;}
-.text-blue{color: blue;}
+.text-blue{color: #8EBEF2;}
+.text-blue2{color: #2C79CC;}
 .bg-gray{background-color: rgba(20, 27, 14, 0.3); }
 .bg-blue{background-color: rgba(11, 88, 255, 0.5);}
 .inline{display: inline-block;}
@@ -30,4 +33,40 @@ button{
 }
 .logo2{
 	width: 35%;
+}
+.img-fondo2{
+	background-image: url("../image/sec-2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+	width: 	100%;
+	opacity: 0.7;
+}
+.iconitos{
+	display: block;
+  	margin-left: 95%;
+ 	padding-top: 3%;
+}
+#lapiz{
+	background-color: #8EBEF2;
+	border-radius: 100%;
+	padding: 2%;
+}
+#herramientas{
+	background-color: #8EBEF2;
+	border-radius: 100%;
+	padding: 2%;
+	margin-top: 10%;
+}
+#lupa{
+	background-color: #8EBEF2;
+	border-radius: 100%;
+	padding: 2%;
+	margin-top: 10%;
+}
+#separador{
+	border-radius: 100%;
+	padding-right:60%;
+
 }
