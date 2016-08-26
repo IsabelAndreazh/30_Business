@@ -68,5 +68,11 @@ button{
 #separador{
 	border-radius: 100%;
 	padding-right:60%;
-
+}
+.img-banner{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+	width: 	100%;
 }
