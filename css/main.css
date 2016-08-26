@@ -10,6 +10,7 @@
 .text-blue2{color: #2C79CC;}
 .bg-gray{background-color: rgba(20, 27, 14, 0.3); }
 .bg-blue{background-color: rgba(11, 88, 255, 0.5);}
+.bg-footer{background-color: #666363}
 .inline{display: inline-block;}
 #fondo{
 	background-image: url("../image/large.jpg");
